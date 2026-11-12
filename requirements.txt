@@ -1,0 +1,10 @@
+fastapi
+pydantic[email]
+pydantic-settings
+python-dotenv
+PyJWT
+redis
+argon2-cffi
+slowapi
+email-validator
+uvicorn
